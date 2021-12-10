@@ -1,0 +1,1 @@
+## this repo contains some basics of Document object model of JavaScript.
